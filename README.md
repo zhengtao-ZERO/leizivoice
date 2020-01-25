@@ -3,6 +3,6 @@
 
 record：录音
 
-voice_recognition：百度api语音识别
+voices2text：百度api语音识别
 
 text2voices：文字转语音
