@@ -5,9 +5,9 @@ from aip import AipSpeech
 import time
 
 def start2text():
-    APP_ID = '18339468'
-    API_KEY = 'NWDFKWKKGoz3NkBVyMDP2095'
-    SECRET_KEY = 'GGqfre8IOqr7dSOQPZU42AzVCyKBRvzD'
+    APP_ID = '***'
+    API_KEY = '***'
+    SECRET_KEY = '***'
     client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
     def get_file_content(filePath):
